@@ -6,6 +6,10 @@
 
 ## Opdracht
 ### Gebruikte bronnen
+[cron jobs](https://www.freecodecamp.org/news/cron-jobs-in-linux/)
+
+[cronjobs2](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804)
+
 [Plaats hier de bronnen die je hebt gebruikt.]
 
 ### Ervaren problemen
