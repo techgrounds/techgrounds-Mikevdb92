@@ -1,19 +1,24 @@
-# [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# [CronJobs]
+maak een bashscript dat de huidige tijd naar een bestand schrijft.
+laat dit script elk minuut draaien met een cronjob
+maak een script dat de beschikbare ruimte naar een logfile schrijft in /var/logs. gebruik een cronjob om dit elke week te doen.
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- cronjob
+- timedatectl
 
 ## Opdracht
 ### Gebruikte bronnen
-[cron jobs](https://www.freecodecamp.org/news/cron-jobs-in-linux/)
+- [cron jobs](https://www.freecodecamp.org/news/cron-jobs-in-linux/)
 
-[cronjobs2](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804)
+- [cronjobs2](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804)
 
 [Plaats hier de bronnen die je hebt gebruikt.]
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+krijg cronjob niet werkend.
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+
+script
+![datescript](../00_includes/w1_cronjobs_datescript.PNG)
