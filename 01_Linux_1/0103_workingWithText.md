@@ -6,16 +6,21 @@
 ## Key-terms
 - GUI (graphical user interface)
 - CLI (Command line interface)
-- stdin/stdout (standard input/standard output)
 - echo
-- filter
+- pipe
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Pipe](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)
+- Linux cheatsheet
+
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+regel tekst naar file + print terminal
+![echo](../00_includes/w1_workingWithText_echo.PNG)
+filter op techgrounds en schrijf regel naar nieuw .txt
+![grep](../00_includes/w1_workingWithText_grep.PNG)
+
