@@ -17,7 +17,7 @@ navigeer door je directory door middel van absolute en relative paths.
 [create file + text](https://www.cyberciti.biz/faq/create-a-file-in-linux-using-the-bash-shell-terminal)
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+
 
 ### Resultaat
 
