@@ -8,10 +8,9 @@ Zodra er verbinding is, testen met "whoami" command in terminal.
 - Putty (vm software)
 
 
-
 ## Opdracht
 ### Gebruikte bronnen
-[stappenplan](https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/)
+- [stappenplan](https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/)
 
 ### Ervaren problemen
 Tijdens het zoeken naar informatie veel gelijksoortige oplossingen gevonden die heel erg op elkaar leken, maar toch net iets verschillend waren. 
@@ -25,5 +24,5 @@ cmd prompt:
 
 Putty: ip + poort invoeren > auth > ssh key uploaden > run (connect2vm)
 
-
-![img] ../00_includes/w1_settingup.PNG
+Login + 'whoami'
+![Login](../00_includes/w1_settingup2.PNG)
