@@ -11,14 +11,18 @@ Start het telnet daemon. Achterhaal het process id (PID) en hoeveel geheugen er 
 
 ## Opdracht
 ### Gebruikte bronnen
-[commands for memuse check](https://phoenixnap.com/kb/linux-commands-check-memory-usage)
-
-['kill'process] (https://www.cyberciti.biz/faq/how-force-kill-process-linux/) 
+- [commands for memuse check](https://phoenixnap.com/kb/linux-commands-check-memory-usage)
+- ['kill'process](https://www.cyberciti.biz/faq/how-force-kill-process-linux/) 
 
 
 ### Ervaren problemen
 
-[Aan het begin van de opdracht lukte het maar niet om telnet te openen, veel opgezocht zonder resultaat. daarna in de groep gegooit en bleek dat het enkel telnet intypen was aangezien telnet al op de achtergrond actief was.]
-
+Aan het begin van de opdracht lukte het maar niet om telnet te openen, veel opgezocht zonder resultaat. door een tip van een groepsgenoot erachter gekomen dat telnet opstart door telnet te typen
+![prob](../00_includes/w1_processes_prob1.PNG)
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+datause telnet + id
+![telnetuse](../00_includes/w1_processes_htopTelnetmemuse.PNG)
+telnet id   
+![telnetid](../00_includes/w1_processes_telnetpid.PNG)
+telnet stopped
+![stopped](../00_includes/w1_processes_telnetstopped.PNG)
