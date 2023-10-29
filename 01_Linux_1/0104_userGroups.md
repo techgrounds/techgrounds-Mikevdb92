@@ -8,10 +8,35 @@
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+[sudo](https://phoenixnap.com/kb/linux-sudo-command)
+
+[adduser](https://www.howtogeek.com/50787/add-a-user-to-a-group-or-second-group-on-linux/)
+
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Bij toevoegen van user geen extra info opties, die hier wel zouden zijn.
+Oplossing: useradd doet hetzelfde als adduser maar zonder extra gegevens nodig. *adduser gebruiker ipv useradd
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+toevoegen user:
+
+    sudo adduser beep
+
+add groups  
+![admin](../00_includes/w1_usersgroups_admin.PNG)
+
+user 
+![password](../00_includes/w1_usersgroups_password.PNG)
+
+user groups 
+![newFiles](../00_includes/w1_usersgroups_newfiles.PNG)
+
+user username   
+![passwdFile](../00_includes/w1_usersgroups_passwdfile.PNG)
+
+user password
+![password](../00_includes/w1_filegroups_password.PNG)
+
+
+
+
