@@ -3,29 +3,29 @@
 
 ## Key-terms
 - $PATH > "The $PATH environmental variable is a colon-delimited list of directories that tells the shell which directories to search for executable files."
-- script
 - bash
+- apt-get
 
 
 ## Opdracht
 ### Gebruikte bronnen
 
-[PATH](https://phoenixnap.com/kb/linux-add-to-path#:~:text=PATH%20is%20an%20environment%20variable,command%20without%20specifying%20a%20path.)
-[VIM Save Exit](https://www.cyberciti.biz/faq/linux-unix-vim-save-and-quit-command/)
+- [PATH](https://phoenixnap.com/kb/linux-add-to-path#:~:text=PATH%20is%20an%20environment%20variable,command%20without%20specifying%20a%20path.)
+- [VIM Save Exit](https://www.cyberciti.biz/faq/linux-unix-vim-save-and-quit-command/)
 
-[Apache2 Install](https://mkyong.com/apache/how-to-install-apache-http-server-in-ubuntu/)
+- [Apache2 Install](https://mkyong.com/apache/how-to-install-apache-http-server-in-ubuntu/)
 
-[Apache2 Extrainfo](https://www.cyberciti.biz/faq/linux-install-and-start-apache-httpd/)
+- [Apache2 Extrainfo](https://www.cyberciti.biz/faq/linux-install-and-start-apache-httpd/)
 
-[yesno in scripts](https://askubuntu.com/questions/805067/is-there-a-way-to-force-yes-to-any-prompts-when-installing-from-apt-get-from)
+- [yesno in scripts](https://askubuntu.com/questions/805067/is-there-a-way-to-force-yes-to-any-prompts-when-installing-from-apt-get-from)
 
-[Service Status](https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/)
+- [Service Status](https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/)
 
-[Random](https://www.baeldung.com/linux/random-numbers)
+- [Random](https://www.baeldung.com/linux/random-numbers)
 
-[If Elif Else](https://www.tutorialspoint.com/unix/if-elif-statement.htm)
+- [If Elif Else](https://www.tutorialspoint.com/unix/if-elif-statement.htm)
 
-[bash Cheatsheet](https://devhints.io/bash)
+- [bash Cheatsheet](https://devhints.io/bash)
 
 ### Ervaren problemen
 bij het installeren van httpd kwam deze melding
@@ -36,4 +36,25 @@ bij het installeren van httpd kwam deze melding
 Tijdens de installatie die door het script word aangeroepen komt er een y/n invoer moment, waardoor het script onderbroken word. Oplossing: -y bij de installatie toevoegen, dit zorgt ervoor dat alle mogelijke vragen met yes beantwoord worden.
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+
+addline script + run    
+![addline](../00_includes/w1_bashscripts_textscript.PNG)
+
+result installscript    
+![Alt text](../00_includes/w1_bashscripts_httpdinstalloutput.PNG) 
+
+install script  
+ ![Alt text](../00_includes/w1_bashscripts_httpdinstallScript.PNG)
+
+random number generator 1   
+![numgen1cat](../00_includes/w1_bashscripts_ramnrgen1textfile.PNG) 
+
+script numgen1  
+![scriptnumgen1](../00_includes/w1_bashscripts_ramnrgen1script.PNG)
+
+random number generator 2   
+![numgen2cat](../00_includes/w1_bashscripts_ramnrgen2output.PNG) 
+
+script numgen2  
+![scriptnumgen2](../00_includes/w1_bashscripts_ramnrgen2script.PNG) 
+
