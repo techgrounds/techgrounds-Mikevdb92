@@ -12,13 +12,28 @@ maak een script dat de beschikbare ruimte naar een logfile schrijft in /var/logs
 - [cron jobs](https://www.freecodecamp.org/news/cron-jobs-in-linux/)
 
 - [cronjobs2](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804)
+- [date command](https://phoenixnap.com/kb/linux-date-command)
+- [date format](https://askubuntu.com/questions/634173/how-to-get-date-and-time-using-command-line-interface)
+- [diskFree df](https://www.cyberciti.biz/faq/df-command-examples-in-linux-unix/)
 
-[Plaats hier de bronnen die je hebt gebruikt.]
 
 ### Ervaren problemen
-krijg cronjob niet werkend.
+bashscript niet werkend via cronjob. Permission denied etc
+Oplossing, rechten stonden goed. $date moest gebruikt worden ipv timedatectl 
 
 ### Resultaat
 
-script
+script  
 ![datescript](../00_includes/w1_cronjobs_datescript.PNG)
+
+cronjob  
+![cronjob](../00_includes/w1_cronjob_crontab.PNG)
+
+cronjob result  
+![cronjobresult](../00_includes/w1_cronjob_crontabresult.PNG)
+
+disk free weekly script     
+![dfweekly](../00_includes/w1_cronjob_dfweekly.PNG)
+
+disk free weekly cronjob    
+![dfweeklycronjob](../00_includes/w1_cronjob_dfweeklycron.PNG)
