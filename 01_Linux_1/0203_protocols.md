@@ -3,15 +3,15 @@ Maak een lijst met daarin protocols die gebruikt worden per OSI laag. Geef ook e
 Gebruik Wireshark om je eigen netwerk data te bekijken. Capture een aantal regels en leg het gebruikte protocol uit.
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- Protocol
 
 ## Opdracht
 ### Gebruikte bronnen
-- "diepere" informatie OSI lagen zie extra info bij uitwerkingen
+- "diepere" informatie OSI lagen >> zie extra info bij uitwerkingen
 - [wiki begin protocols](https://en.wikipedia.org/wiki/OSI_protocols#Routing_protocols)
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+nvt.
 
 ### Uitwerking opdrachten
 
@@ -84,3 +84,10 @@ Het OSI is opgebouwd uit 7 lagen. Elke laag heeft meerdere protocols waar gebrui
 
 ### Protocol Bosses 
 The Open Systems Interconnection protocols are a family of information exchange standards developed jointly by the ISO and the ITU-T. The standardization process began in 1977.
+
+### Wireshark Own Network
+Netwerk data van mijn eigen netwerk
+![WiresharkSnap](../00_includes/0203_protocols_wireshark.PNG)
+
+*UDP protocol*: User datagram protocol
+Dit protocol maakt een process-to-process communicatie mogelijk. Het protocol is actief in de transportlaag. Over het algemeen wordt TCP gebruikt voor de meeste internet services. TCP levert een aantal services waar UDP niet over beschikt, door deze services wordt de "latency" zwaarder belast. Wat kan resulteren in een tragere data overdracht. In dit geval wordt UDP gebruikt. Voor real-time services zoals computer gaming, video of spraak communicatie. UDP is hiervoor nodig omdat bij deze services hoge preformance belangrijk is. (Videocall met happerend beeld door een langzame data overdracht is niet wenselijk.)
