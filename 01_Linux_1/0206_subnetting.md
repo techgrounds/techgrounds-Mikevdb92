@@ -13,7 +13,7 @@
 - [CIDR](https://aws.amazon.com/what-is/cidr/)
 - [yt uitleg subnetting](https://www.youtube.com/watch?v=ecCuyq-Wprc)
 
-- [page to make CIDR notation](https://app.diagrams.net/)
+- [CIDR tool](https://app.diagrams.net/)
 - [subnetting calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
 ### Ervaren problemen

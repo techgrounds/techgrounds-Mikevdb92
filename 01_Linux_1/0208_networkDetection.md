@@ -1,8 +1,9 @@
-# [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# [Network Detection]
+Scan het netwerk van je linux machine door middel van nmap en laat de resultaten hiervan zien.
+Open wireshark en analiseer wat er gebeurd als je een webbrowser opent.
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- Nmap (Network Mapper)
 
 ## Opdracht
 ### Gebruikte bronnen
