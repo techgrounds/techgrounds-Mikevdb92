@@ -22,21 +22,20 @@ toevoegen user:
 
     sudo adduser beep
 
-add groups  
-![admin](../00_includes/w1_usersgroups_admin.PNG)
+add groups      
+![admin](../00_includes/0104_usersgroups_admin.PNG)
 
-user 
-![password](../00_includes/w1_usersgroups_password.PNG)
+user    
+![password](../00_includes/0104_usersgroups_password.PNG)
 
-user groups 
-![newFiles](../00_includes/w1_usersgroups_newfiles.PNG)
+user groups     
+![newFiles](../00_includes/0104_usersgroups_newfiles.PNG)
 
-user username   
-![passwdFile](../00_includes/w1_usersgroups_passwdfile.PNG)
+user username       
+![passwdFile](../00_includes/0104_usersgroups_passwdfile.PNG)
 
-user password
-![password](../00_includes/w1_filegroups_password.PNG)
-
+user password   
+![password](../00_includes/0104_usersgoups_password.PNG)
 
 
 

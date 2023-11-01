@@ -9,7 +9,7 @@ Als laatste onderdeel van deze opdracht laat je zien waar de DHCP server van mij
 ## Opdracht
 ### Gebruikte bronnen
 - [NetwerkApparatuur](https://www.lepide.com/blog/the-most-common-types-of-network-devices/)
--[MAC-adres](https://www.techtarget.com/searchnetworking/definition/MAC-address#:~:text=How%20to%20find%20the%20MAC,and%20status%20of%20the%20device.)
+- [MAC-adres](https://www.techtarget.com/searchnetworking/definition/MAC-address#:~:text=How%20to%20find%20the%20MAC,and%20status%20of%20the%20device.)
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]

@@ -24,13 +24,11 @@
 
 ### Resultaat
 
-
-![Execute Permission](../00_includes/w1_filepermissions_fileexe.PNG)
-
-![Long listing](../00_includes/w1_filepermissions_longlistingpermission.PNG)
-
-![Change rwx permisson](../00_includes/w1_filepermissions_urwx.PNG)
-
-![Change file owner](../00_includes/w1_filepermissions_ownerchange.PNG)
-
-![Change group owner](../00_includes/w1_filepermissions_groupchange.PNG)
+Show longlisting    
+![Long listing](../00_includes/0105_filepermissions_longlistingpermission.PNG)
+Change file to executeable + run  
+![Execute Permission](../00_includes/0105_filepermissions_fileexe.PNG)
+change file owner    
+![Change file owner](../00_includes/0105_filepermissions_ownerchange.PNG)
+change file group owner 
+![Change group owner](../00_includes/0105_filepermissions_groupchange.PNG)

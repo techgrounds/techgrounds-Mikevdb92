@@ -24,13 +24,13 @@ navigeer door je directory door middel van absolute en relative paths.
 
     $ pwd
 
-![pwd](../00_includes/w1_filesdirectories1.PNG)
+![pwd](../00_includes/0102_filesdirectories1.PNG)
 
     $ mkdir techgrounds
 
 Nieuw file met tekst
 
-![cat](../00_includes/w1_filesdirectories2.PNG)
+![cat](../00_includes/0102_filesdirectories2.PNG)
 
 
 
@@ -42,4 +42,4 @@ Absolute & Relative paths
     $ cd ../path (relative > up and somewhere matching)
 
 
-![cdAbRel](../00_includes/w1_filesdirectories4.PNG)
+![cdAbRel](../00_includes/0102_filesdirectories4.PNG)

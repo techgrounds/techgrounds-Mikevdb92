@@ -24,16 +24,16 @@ Oplossing, rechten stonden goed. $date moest gebruikt worden ipv timedatectl
 ### Resultaat
 
 script  
-![datescript](../00_includes/w1_cronjobs_datescript.PNG)
+![datescript](../00_includes/0108_cronjobs_datescript.PNG)
 
 cronjob  
-![cronjob](../00_includes/w1_cronjob_crontab.PNG)
+![cronjob](../00_includes/0108_cronjob_crontab.PNG)
 
 cronjob result  
-![cronjobresult](../00_includes/w1_cronjob_crontabresult.PNG)
+![cronjobresult](../00_includes/0108_cronjob_crontabresult.PNG)
 
 disk free weekly script     
-![dfweekly](../00_includes/w1_cronjob_dfweekly.PNG)
+![dfweekly](../00_includes/0108_cronjob_dfweekly.PNG)
 
 disk free weekly cronjob    
-![dfweeklycronjob](../00_includes/w1_cronjob_dfweeklycron.PNG)
+![dfweeklycronjob](../00_includes/0108_cronjob_dfweeklycron.PNG)

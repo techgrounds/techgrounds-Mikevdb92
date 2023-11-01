@@ -25,4 +25,4 @@ cmd prompt:
 Putty: ip + poort invoeren > auth > ssh key uploaden > run (connect2vm)
 
 Login + 'whoami'
-![Login](../00_includes/w1_settingup2.PNG)
+![Login](../00_includes/0101_settingup2.PNG)

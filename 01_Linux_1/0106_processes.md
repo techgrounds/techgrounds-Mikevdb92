@@ -17,12 +17,12 @@ Start het telnet daemon. Achterhaal het process id (PID) en hoeveel geheugen er 
 
 ### Ervaren problemen
 
-Aan het begin van de opdracht lukte het maar niet om telnet te openen, veel opgezocht zonder resultaat. door een tip van een groepsgenoot erachter gekomen dat telnet opstart door telnet te typen
-![prob](../00_includes/w1_processes_prob1.PNG)
+Aan het begin van de opdracht lukte het maar niet om telnet te openen, veel opgezocht zonder resultaat. door een tip van een groepsgenoot erachter gekomen dat telnet opstart door telnet te typen  
+
 ### Resultaat
-datause telnet + id
-![telnetuse](../00_includes/w1_processes_htopTelnetmemuse.PNG)
+datause telnet + id 
+![telnetuse](../00_includes/0106_processes_htopTelnetmemuse.PNG)
 telnet id   
-![telnetid](../00_includes/w1_processes_telnetpid.PNG)
-telnet stopped
-![stopped](../00_includes/w1_processes_telnetstopped.PNG)
+![telnetid](../00_includes/0106_processes_telnetpid.PNG)
+telnet stopped  
+![stopped](../00_includes/0106_processes_telnetstopped.PNG)

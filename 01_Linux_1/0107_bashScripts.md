@@ -28,8 +28,8 @@
 - [bash Cheatsheet](https://devhints.io/bash)
 
 ### Ervaren problemen
-bij het installeren van httpd kwam deze melding
-![Probleem](../00_includes/w1_processes_prob1.PNG) 
+bij het installeren van httpd kwam deze melding 
+![Probleem](../00_includes/0107_bashscripts_prob1.PNG) 
 
 [oplossing](https://stackoverflow.com/questions/26865161/unable-to-install-httpd-on-digitalocean) Toelichting: Ubuntu beschikt over httpd onderdelen maar biedt deze al als kant en klaar pakket aan, dus ipv httpd download je apache2 (één van de meest gebruikte server package )
 
@@ -38,23 +38,23 @@ Tijdens de installatie die door het script word aangeroepen komt er een y/n invo
 ### Resultaat
 
 addline script + run    
-![addline](../00_includes/w1_bashscripts_textscript.PNG)
+![addline](../00_includes/0107_bashscripts_textscript.PNG)
 
 result installscript    
-![Alt text](../00_includes/w1_bashscripts_httpdinstalloutput.PNG) 
+![Alt text](../00_includes/0107_bashscripts_httpdinstalloutput.PNG) 
 
 install script  
- ![Alt text](../00_includes/w1_bashscripts_httpdinstallScript.PNG)
+ ![Alt text](../00_includes/0107_bashscripts_httpdinstallScript.PNG)
 
 random number generator 1   
-![numgen1cat](../00_includes/w1_bashscripts_ramnrgen1textfile.PNG) 
+![numgen1cat](../00_includes/0107_bashscripts_ramnrgen1textfile.PNG) 
 
 script numgen1  
-![scriptnumgen1](../00_includes/w1_bashscripts_ramnrgen1script.PNG)
+![scriptnumgen1](../00_includes/0107_bashscripts_ramnrgen1script.PNG)
 
 random number generator 2   
-![numgen2cat](../00_includes/w1_bashscripts_ramnrgen2output.PNG) 
+![numgen2cat](../00_includes/0107_bashscripts_ramnrgen2output.PNG) 
 
 script numgen2  
-![scriptnumgen2](../00_includes/w1_bashscripts_ramnrgen2script.PNG) 
+![scriptnumgen2](../00_includes/0107_bashscripts_ramnrgen2script.PNG) 
 

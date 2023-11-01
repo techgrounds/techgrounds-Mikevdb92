@@ -20,7 +20,7 @@
 
 ### Resultaat
 regel tekst naar file + print terminal
-![echo](../00_includes/w1_workingWithText_echo.PNG)
+![echo](../00_includes/0103_workingWithText_echo.PNG)
 filter op techgrounds en schrijf regel naar nieuw .txt
-![grep](../00_includes/w1_workingWithText_grep.PNG)
+![grep](../00_includes/0103_workingWithText_grep.PNG)
 
