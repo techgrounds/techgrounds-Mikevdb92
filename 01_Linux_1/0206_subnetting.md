@@ -6,6 +6,7 @@
 - Host
 - subnet Mask (prefix)
 - CIDR notation = Classless Inter-Domain Routing
+- VLSM = variable-length subnet mask
 
 ## Opdracht
 ### Gebruikte bronnen
@@ -17,7 +18,10 @@
 - [subnetting calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Moeite met het visueel maken van de diagram.
+Oplossing: demo + uitleg via chatgpt opgevraagd en hulp van groepsgenoten gevraagd.
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+
+cidr van opdracht:
+![cidr](../00_includes/0206_subnetting_cidr.png)
