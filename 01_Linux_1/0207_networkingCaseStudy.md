@@ -17,8 +17,10 @@ De volgende apparaten zijn onderdeel van het kantoor netwerk:
 - [CIDR tool](https://app.diagrams.net/)
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Heel de opdracht.. vanalles aan het doen maar geen idee waarom. Extra hulp gevraagd zonder succes
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+fout antwoord:
+![Alt text](../00_includes/0207_networkingCaseStudy_foutantwoord.png)
 
+Goede antwoord: succes ermee!
