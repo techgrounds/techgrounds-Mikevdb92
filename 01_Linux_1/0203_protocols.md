@@ -9,12 +9,11 @@ Gebruik Wireshark om je eigen netwerk data te bekijken. Capture een aantal regel
 ### Gebruikte bronnen
 - "diepere" informatie OSI lagen >> zie extra info bij uitwerkingen
 - [wiki begin protocols](https://en.wikipedia.org/wiki/OSI_protocols#Routing_protocols)
+- [Networklayer protocols voorbeeld](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FL0QgE-PJsT[…]%3Fauto%3Dwebp%26s%3Deb58956a5602ccef48f5ffd1087b00bc05ca1990)
 
 ### Ervaren problemen
-nvt.
-
+Geen
 ### Uitwerking opdrachten
-
 ### Protocols en OSI
 Het OSI is opgebouwd uit 7 lagen. Elke laag heeft meerdere protocols waar gebruik van gemaakt kan worden. Hieronder een lijstje met een aantal protocols per laag. (Weergeven vanaf boven naar onder >> Physical is de onderste laag en Application is de bovenste laag )
 

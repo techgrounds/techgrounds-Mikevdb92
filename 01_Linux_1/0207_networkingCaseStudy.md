@@ -10,17 +10,26 @@ De volgende apparaten zijn onderdeel van het kantoor netwerk:
 
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- VLSM = Variable Length Subnet Mask
 
 ## Opdracht
 ### Gebruikte bronnen
 - [CIDR tool](https://app.diagrams.net/)
+- [YT Uitleg Sunny CIDR reeks](https://www.youtube.com/watch?v=ecCuyq-Wprc) S TIER UITLEG: 5 filmpjes met uitleg over CIDR en VLSM 
+- [VLSM](https://www.techtarget.com/searchnetworking/definition/variable-length-subnet-mask)
+- [YT uitleg CIDR ander kanaal](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
 
 ### Ervaren problemen
-Heel de opdracht.. vanalles aan het doen maar geen idee waarom. Extra hulp gevraagd zonder succes
+Eerste uitwerking:  
+![foute poging](../00_includes/0207_networkingCaseStudy_foutantwoord.png)   
+Zelfde probleem als bij subnetting, uiteindelijk opgelost door veel verschillende bronnen/uitleg te volgen.
 
 ### Resultaat
-fout antwoord:
-![Alt text](../00_includes/0207_networkingCaseStudy_foutantwoord.png)
+Fout a
+Subnet groepen:     
+![Submask verdeling](../00_includes/0207_networkingcasestudy_subnetschema.PNG)  
 
-Goede antwoord: succes ermee!
+Diagram van de case study
+![Diagram](../00_includes/0207_networkingcasestudy_diagram.png) 
+
+Het netwerk begint bij het punt waar het internet binnen komt bij de ISP modem. Vervolgens zit hier een firewall achter om naar de eerst volgende router te komen. Deze router heeft een verbinding met een DMZ waarin de webserver en de AD server actief zijn. De ander verbinding vanaf deze router gaat richting de 2de firewall, ook wel de interne firewall om vervolgens naar interne router te gaan. Vanuit deze router ligt er een verbinding naar een 2de DMZ waarin een database en een fileserver zitten. Daarnaast zit er een verbinding naar de workstations (5 stuks) van het bedrijf en een verbinding naar de switch waarmee gecommuniceerd kan worden met zowel de printer als met de database en de file server.
