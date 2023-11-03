@@ -18,6 +18,8 @@ De volgende apparaten zijn onderdeel van het kantoor netwerk:
 - [YT Uitleg Sunny CIDR reeks](https://www.youtube.com/watch?v=ecCuyq-Wprc) S TIER UITLEG: 5 filmpjes met uitleg over CIDR en VLSM 
 - [VLSM](https://www.techtarget.com/searchnetworking/definition/variable-length-subnet-mask)
 - [YT uitleg CIDR ander kanaal](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
+- [DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz#:~:text=A%20DMZ%20can%20be%20used,firewall%20within%20the%20home%20network.)
+
 
 ### Ervaren problemen
 Eerste uitwerking:  
