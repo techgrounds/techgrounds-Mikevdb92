@@ -7,10 +7,25 @@ Open wireshark en analiseer wat er gebeurd als je een webbrowser opent.
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Nmap commands](https://www.redhat.com/sysadmin/quick-nmap-inventory)
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+Nmap scan full network  
+
+    nmap -sn 10.82.162.49 -oG nmap_output   
+
+![nmapFullnetwork](../00_includes/0208_networkdetection_fullnetworkscan.PNG) 
+
+
+nmap scan my network    
+
+    nmap -sn 10.82.162.49 -oG nmap_output   
+
+![nmapMyNetwork](../00_includes/0208_networkdetection_mynetworkscan.PNG)    
+
+Wireshark pakketen na openen browser:   
+
+![wireshark](../00_includes/0208_networkdetection_wireshark.PNG)
