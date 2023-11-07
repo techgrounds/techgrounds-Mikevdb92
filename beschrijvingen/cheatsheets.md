@@ -15,6 +15,6 @@
 - [CIDR](https://aws.amazon.com/what-is/cidr/) Diagram tool to design network architecture  
 - [subnetting calculator](https://www.calculator.net/ip-subnet-calculator.html) 
 
-- [link]()
-- [link]()
+- [RSA Asymmetric Gen](https://www.javainuse.com/rsagenerator)
+- [AES Symmetric Gen](https://www.javainuse.com/aesgenerator)
 - [link]()
