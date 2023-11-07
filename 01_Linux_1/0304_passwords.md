@@ -1,4 +1,4 @@
-# [Onderwerp]
+# [Passwords]
 [Geef een korte beschrijving van het onderwerp]
 
 ## Key-terms
@@ -6,7 +6,8 @@
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Rainbow table attack uitleg](https://www.geeksforgeeks.org/understanding-rainbow-table-attack/)
+- []()
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
