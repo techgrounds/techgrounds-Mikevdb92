@@ -11,9 +11,10 @@ Vindt de trusted certificate roots op je pc. Bonus punten als je dit op je vm ge
 - [YT Sunny Uitleg](https://www.youtube.com/watch?v=LPxeYtMDxl0)
 - [Linux self-signed certificate How2](https://www.arubacloud.com/tutorial/how-to-create-a-self-signed-ssl-certificate-on-ubuntu-18-04.aspx)
 - [self-signed certificate > commands explained](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-22-04)
--[certification paths](https://www.coursera.org/articles/it-certification-roadmap-a-guide)
--[Trusted Certificate location windows](https://www.encryptionconsulting.com/digital-certificate-and-windows-certificate-stores/)
--[Certificate loc Linux](ubuntu.com/server/docs/security-certificates)
+- [certificate check](https://support.nmi.com/hc/en-gb/articles/360021544791-How-to-Check-If-the-Correct-Certificates-Are-Installed-on-Linux)
+- [certification paths](https://www.coursera.org/articles/it-certification-roadmap-a-guide)
+- [Trusted Certificate location windows](https://www.encryptionconsulting.com/digital-certificate-and-windows-certificate-stores/)
+- [Certificate loc Linux](ubuntu.com/server/docs/security-certificates)
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
