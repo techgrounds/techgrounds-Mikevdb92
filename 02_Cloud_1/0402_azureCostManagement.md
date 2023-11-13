@@ -2,11 +2,17 @@
 [Geef een korte beschrijving van het onderwerp]
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- OPEX
+- CAPEX
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [Azure Product Pricing](https://azure.microsoft.com/en-us/pricing/#product-pricing)
+- [Azure Documentatie](https://learn.microsoft.com/nl-nl/azure/?product=popular)
+- [Azure Cost Management](https://www.youtube.com/watch?v=7w88KBVesPI)
+- [Plan manage costs](https://learn.microsoft.com/nl-nl/azure/cost-management-billing/understand/plan-manage-costs)
+- [Terms Free User](https://azure.microsoft.com/nl-nl/free/free-account-faq)
+- [CAPEX vs OPEX](http://www.raamstijn.nl/eenblogjeom/index.php/categorie-1/489-capex-vs-opex)
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
