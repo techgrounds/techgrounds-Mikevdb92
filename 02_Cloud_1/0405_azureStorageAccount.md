@@ -2,11 +2,12 @@
 [Geef een korte beschrijving van het onderwerp]
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+- BLOB = Binary Large OBject
 
 ## Opdracht
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+- [AZ900>Storage Services](https://marczak.io/az-900/episode-11/cheat-sheet/)
+- [static website](https://learn.microsoft.com/nl-nl/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal)
 
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]

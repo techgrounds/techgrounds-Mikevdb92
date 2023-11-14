@@ -1,5 +1,12 @@
 # [Advantages of the Cloud]
-[Geef een korte beschrijving van het onderwerp]
+High Availability
+Afhankelijk van de service-level agreement (SLA)
+Scalability
+Zowel verticaal als horizontaal
+Elasticity
+Agility
+Geo-distribution
+Disaster recovery
 
 ## Key-terms
 [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
