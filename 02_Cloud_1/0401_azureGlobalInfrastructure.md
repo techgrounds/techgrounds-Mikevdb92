@@ -1,15 +1,6 @@
-# [Azure Global Infrastructure]
-[Geef een korte beschrijving van het onderwerp]
+# [Azure Global Infrastructure] 
+*[source](https://marczak.io/az-900/episode-07/cheat-sheet/)*
 
-## Key-terms
-- Region  
-- Region Pairs
-
-## Opdracht
-### Gebruikte bronnen
-- [AZ-900 Course](https://marczak.io/az-900/)
-- [YT Azure Region](https://www.youtube.com/watch?v=gIhf-S7BCdo)
--[Azure Availability Zones + Region Pair](https://learn.microsoft.com/nl-nl/azure/reliability/availability-zones-service-support)
 
 ### Data Center
 - Physical facility
@@ -55,3 +46,10 @@
 - Fault tolerant to protect from region wide failures
  - Broken up into areas (Americas, Europe, Asia, Pacific, Middle East and Africa)
 - Each region belongs only to one Geography`
+
+### Study Guide
+- [Microsoft Learn: Datacenters and Regions](https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/2-azure-datacenter-locations?WT.mc_id=AZ-MVP-5003556)
+- [Microsoft Learn: Geographies](https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/3-geographies?WT.mc_id=AZ-MVP-5003556)
+- [Microsoft Learn: Availability Zones](https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/4-availability-zones?WT.mc_id=AZ-MVP-5003556)
+- [Microsoft Learn: Region Pairs](https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/5-region-pairs?WT.mc_id=AZ-MVP-5003556)
+- [Regions & Availability Zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview?WT.mc_id=AZ-MVP-5003556)

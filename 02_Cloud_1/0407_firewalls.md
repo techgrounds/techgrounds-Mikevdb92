@@ -1,5 +1,5 @@
 # [Firewalls]
-[Geef een korte beschrijving van het onderwerp]
+Azure Firewall and Network Security Groups (NSGs) are the Microsoft solutions for Azure network security. Azure Firewall is an intelligent firewall service that provides threat protection for workloads running in Azure. In contrast, an NSG filters network traffic among Azure resources in a Virtual Network (VNet).
 
 ## Key-terms
 [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
@@ -12,4 +12,12 @@
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+
+Basic vs Premium Firewall
+
+Firewall vs Firewall Policy
+
+Azure Firewall 
+
+Azure Firewall vs NSG
+Azure Firewall and Network Security Groups (NSGs) are the Microsoft solutions for Azure network security. Azure Firewall is an intelligent firewall service that provides threat protection for workloads running in Azure. In contrast, an NSG filters network traffic among Azure resources in a Virtual Network (VNet).
