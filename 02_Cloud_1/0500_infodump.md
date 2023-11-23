@@ -189,6 +189,8 @@ These Five pillars of architecture have been designed by experts after gaining i
 ## Database Services 
 Bron: [Episode 12: Database Services](https://youtu.be/RqD4nMyBazU)
 
+[Cheatsheet Episode 12](https://marczak.io/az-900/#ep12)
+
 ### Data Types
 - Structured - Data that can be represented using tables with very strict schema. Each row must follow defined schema. Some tables have defined relationships between them. Typically used in relational databases.
 - Semi-structured - Data that can be represented using tables but without strict defined schema. Rows must only have unique key identifier.
@@ -214,6 +216,10 @@ R- ich Query Capabilities (SQL)
 - Azure SQL DW (Synapse) – Massively Parallel Processing (MPP) version of SQL Server
 
 ### Study Guide
-- [Microsoft Azure: Microsoft Learn: Databases]()
-- [](https://k21academy.com/microsoft-azure/data-engineer/5-pillars-of-azure-well-architected-framework/)
-- []()
+- [Microsoft Azure: Microsoft Learn: Databases](https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql)
+- [Well Architected Framework](https://k21academy.com/microsoft-azure/data-engineer/5-pillars-of-azure-well-architected-framework/)
+- [k21academy](https://k21academy.com/microsoft-azure/data-engineer/5-pillars-of-azure-well-architected-framework/)
+- [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+- [CDN](https://learn.microsoft.com/nl-nl/azure/cdn/cdn-overview)
+- [Episode 10: Networking services](https://marczak.io/az-900/episode-10/cheat-sheet/)  
+- [Cheatsheet Episode 12](https://marczak.io/az-900/#ep12)
