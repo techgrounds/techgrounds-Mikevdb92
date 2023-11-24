@@ -1,5 +1,3 @@
-# Beeep..
-
 ## ALB & Auto Scaling
 Een van de grootste voordelen van de cloud is dat je niet hoeft te gokken hoeveel capaciteit je nodig hebt. Je kan altijd up en down schalen met on-demand services. Een van de services die dit mogelijk maakt heet Autoscaling.
 
