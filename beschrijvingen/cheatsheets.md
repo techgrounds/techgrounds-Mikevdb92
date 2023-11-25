@@ -18,3 +18,4 @@
 - [RSA Asymmetric Gen](https://www.javainuse.com/rsagenerator)
 - [AES Symmetric Gen](https://www.javainuse.com/aesgenerator)
 - [Rainbow hashcrack](https://crackstation.net/)
+- [Linux tricks](https://www.youtube.com/watch?v=gd7BXuUQ91w)
