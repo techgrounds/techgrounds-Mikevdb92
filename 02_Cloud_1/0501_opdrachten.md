@@ -34,8 +34,7 @@ systemctl restart apache2
 - Controleer of je via het endpoint van je load balancer bij de webserver kan komen.
 - Voer een load test uit op je server(s) om auto scaling the activeren. Er kan een delay zitten in het creëren van nieuwe VMs, afhankelijk van de settings in je VM Scale Set. Let op: de Azure Load Testing service kan prijzig zijn. Je kan ook inloggen op de VM om een handmatige stress test te doen.
 
-## ALB & Auto Scaling Uitwerking
-### Opdracht 1
+## ALB & Auto Scaling Uitwerking opdracht 1 en 2
 Create/Review virtual machine scale set 
 ![scaleset01](../00_includes/0501_virtualmachinescaleset_create01.png) 
 ![scaleset02](../00_includes/0501_virtualmachinescaleset_create02.png) 
@@ -57,10 +56,6 @@ Steekproef tijdens de test, 2 vms upscale naar 3 vms.
 ![start2vmUpto3vm](../00_includes/0501_virtualmachinescaleset_scale2n3.png) 
 Een tijdje na de test is er gedownscaled terug naar 1 vm.
 ![backto1](../00_includes/0501_virtualmachinescaleset_scalebackto1.png) 
-
-
-
-
 
 ## Azure Files, App Service, CDN , DNS, SQL
 ### Opdracht Beschrijving
