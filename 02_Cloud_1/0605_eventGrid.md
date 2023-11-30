@@ -17,19 +17,19 @@ Azure Event Grid wordt vaak gebruikt voor het bouwen van reactieve, event-driven
 
 
 # Know-How Theorie
-### Welk probleem lost X op?
+### Welk probleem lost Event Grid op?
 
 
-### Welke key termen horen bij X?
+### Welke key termen horen bij Event Grid?
 
 
-### Hoe past X / vervangt X in een on-premises setting?
+### Hoe past Event Grid / vervangt Event Grid in een on-premises setting?
 
 
-### Hoe kan ik X combineren met andere diensten?
+### Hoe kan ik Event Grid combineren met andere diensten?
 
 
-### Wat is het verschil tussen X en andere gelijksoortige diensten?
+### Wat is het verschil tussen Event GridX en andere gelijksoortige diensten?
 
 
 ## Know-How Praktijk

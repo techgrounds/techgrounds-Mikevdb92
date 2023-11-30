@@ -17,19 +17,19 @@ Azure Functions wordt vaak gebruikt voor het maken van kleine, specifieke stukje
 
 
 # Know-How Theorie
-### Welk probleem lost X op?
+### Welk probleem lost Azure Functions op?
 
 
-### Welke key termen horen bij X?
+### Welke key termen horen bij Azure Functions?
 
 
-### Hoe past X / vervangt X in een on-premises setting?
+### Hoe past Azure Functions / vervangt Azure Functions in een on-premises setting?
 
 
-### Hoe kan ik X combineren met andere diensten?
+### Hoe kan ik Azure Functions combineren met andere diensten?
 
 
-### Wat is het verschil tussen X en andere gelijksoortige diensten?
+### Wat is het verschil tussen Azure Functions en andere gelijksoortige diensten?
 
 
 ## Know-How Praktijk

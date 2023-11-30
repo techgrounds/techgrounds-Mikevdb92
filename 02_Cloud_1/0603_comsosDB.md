@@ -17,19 +17,19 @@ Azure Cosmos DB wordt vaak gebruikt voor moderne applicaties die behoefte hebben
 
 
 # Know-How Theorie
-### Welk probleem lost X op?
+### Welk probleem lost CosmosDB op?
 
 
-### Welke key termen horen bij X?
+### Welke key termen horen bij CosmosDB?
 
 
-### Hoe past X / vervangt X in een on-premises setting?
+### Hoe past CosmosDB / vervangt CosmosDB in een on-premises setting?
 
 
-### Hoe kan ik X combineren met andere diensten?
+### Hoe kan ik CosmosDB combineren met andere diensten?
 
 
-### Wat is het verschil tussen X en andere gelijksoortige diensten?
+### Wat is het verschil tussen CosmosDB en andere gelijksoortige diensten?
 
 
 ## Know-How Praktijk
