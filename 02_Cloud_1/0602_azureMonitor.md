@@ -21,7 +21,6 @@ Azure Monitor biedt een geïntegreerd platform voor monitoring en beheer, waardo
 Met Azure Monitor worden applicaties, services, infrastructuur en netwerken binnen Azure gemonitored en geanalyseerd. Deze service zorgt voor inzicht in je cloudservice, voor alle  applicaties, netwerkstructuur, infrastructuur en services. 
 Door de analyses van Azure monitor ontstaat er een prestatiebewaking en optimalisatie, proactief detecteren van problemen, uitgebruide analysehulpmiddelen en inzichten en beveiligingsmonitor.
 
-
 ### Welke key termen horen bij Azure Monitor?
 
 
@@ -30,8 +29,6 @@ Als analysetool om processen op de gewenste OSI-model laag te monitoren.
 
 ### Hoe kan ik Azure Monitor combineren met andere diensten?
 Veel services kunnen door Azure monitor geanalyseerd worden, bij het creëren van resources is er een monitor-tabblad. Dit is de Azure Monitor services die met instellingen in dit tabblad word aangemaakt en geactiveerd.
-
-
 
 ### Wat is het verschil tussen Azure Monitor en andere gelijksoortige diensten?
 Azure monitor is de analysetoolv van Azure, er zijn andere services beschikbaar die als extensies van Azure monitor werken, dus niet als vervanging maar als uitbereiding voor specifieke wensen.

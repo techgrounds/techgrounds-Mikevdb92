@@ -18,28 +18,42 @@ Azure Cosmos DB wordt vaak gebruikt voor moderne applicaties die behoefte hebben
 
 # Know-How Theorie
 ### Welk probleem lost CosmosDB op?
+Azure Cosmos DB is een volledig beheerde NoSQL- en relationele database voor moderne app-ontwikkeling, waaronder; AI, digitale handel, Internet of Things, boekingsbeheer en andere soorten oplossingen. Azure Cosmos DB biedt reactietijden van één milliseconde, automatische en directe schaalbaarheid, samen met gegarandeerde snelheid op elke schaal. De bedrijfscontinuïteit is gewaarborgd met door SLA ondersteunde beschikbaarheid en beveiliging op bedrijfsniveau.
 
+App-ontwikkeling is sneller en productiever dankzij:
+- Kant-en-klare gegevensdistributie in meerdere regio's overal ter wereld
+- Opensource-API's
+- SDK's voor populaire talen.
+- AI-databasefunctionaliteiten zoals systeemeigen vectorzoekopdrachten of naadloze integratie met Azure AI Services ter ondersteuning van het ophalen van augmented generation
 
 ### Welke key termen horen bij CosmosDB?
+- Global Distributed = Zone-redundancy voor fysieke CosmosDB verspreiding wereldwijd.
+![Global Distributed](https://learn.microsoft.com/nl-nl/azure/cosmos-db/media/introduction/overview.svg)
 
 
 ### Hoe past CosmosDB / vervangt CosmosDB in een on-premises setting?
-
+CosmosDB kan als automatiserings tool gebruikt worden en hiermee de database die on-premises aanwezig is optimaliseren.
 
 ### Hoe kan ik CosmosDB combineren met andere diensten?
-
+De CosmosDB is te combineren door middel van API's. Er zijn verschillende mogelijkheden beschikbaar, de opties verschillen in de output die de klant te zien krijgt. Zo kan er voor bijvoorbeeld Apache Gremlin gekozen worden als grafieken de gewenste weergave van de data is. Mocht er een grote hoeveelheid data verwerkt worden, dan is de Apachi Cassandra API de beste keuze.
 
 ### Wat is het verschil tussen CosmosDB en andere gelijksoortige diensten?
-
+ Azure Managed Instance zijn te gebruiken in plaats van CosmosDB. Het grote verschil tussen deze dienst en CosmosDB zit in het automatiseren van de database, dit is iets wat CosmosDB grotendeels overneemt voor de klant, bij Azure Managed instance is er meer klant input nodig om de service werkende te houden.
 
 ## Know-How Praktijk
 ### Waar kan ik deze dienst vinden in de console?
+De CosmosDB service is te vinden in het menu aan de linkerkant of via de zoekfunctie.
 
+![waar](../00_includes/0603_cosmosdb_waar.png)  
 
 ### Hoe zet ik deze dienst aan?
+Bij het aanmaken van CosmosDB zijn er 6 verschillende api opties waar de gebruiker uit kan kiezen.  
 
+![create Overview](../00_includes/0603_cosmosdb_createoverview.png) 
 
 ### Hoe kan ik deze dienst koppelen aan andere resources?
+Deze dienst is tijdens het aanmaken te koppelen aan andere databases door middel van een API. Hiermee kan CosmosDB deze resources optimaliseren en zo effectief mogelijk inzetten.
 
 ## Bronnen
 [MS Learn](https://learn.microsoft.com/nl-nl/azure/cosmos-db/)
+[Samenvatting cosmosDB](https://medium.com/codex/azure-cosmos-db-api-services-dc14a4cafd2c)
