@@ -17,29 +17,38 @@ Azure Service Bus wordt vaak gebruikt in verschillende scenario's, zoals gedistr
 
 
 # Know-How Theorie
-### Welk probleem lost X op?
+### Welk probleem lost Service Bus op?
+Azure Service Bus is een volledig beheerde enterprise-berichtenbroker met berichtenwachtrijen en onderwerpen over publiceren/abonneren (in een naamruimte). Service Bus wordt gebruikt om toepassingen en services van elkaar los te koppelen.
+
+### Welke key termen horen bij Service?
 
 
-### Welke key termen horen bij X?
+### Hoe past Service Bus / vervangt Service Bus in een on-premises setting?
+Azure Event Grid kan worden gebruikt in on-premises omgevingen om klanten te helpen bij het optimaliseren van lokale hardware en software. Azure Queue Storage en Azure Service Bus kunnen ook worden gebruikt in cloudomgevingen zoals Azure om klanten te helpen bij het optimaliseren van virtuele machines of Kubernetes-clusters.
 
+### Hoe kan ik Service Bus combineren met andere diensten?
+Service Bus is volledig geïntegreerd met veel Microsoft- en Azure-services, bijvoorbeeld:
 
-### Hoe past X / vervangt X in een on-premises setting?
+- Event Grid
+- Logic-apps
+- Azure Functions
+- Power Platform
+- Dynamics 365
+- Azure Stream Analytics
+Voor de integratie per onderdeel is er een learn.microsoft pagina beschikbaar. [Intergratie MSLearn](https://learn.microsoft.com/nl-nl/azure/service-bus-messaging/service-bus-messaging-overview#integration)
 
-
-### Hoe kan ik X combineren met andere diensten?
-
-
-### Wat is het verschil tussen X en andere gelijksoortige diensten?
+### Wat is het verschil tussen Service Bus en andere gelijksoortige diensten?
 
 
 ## Know-How Praktijk
 ### Waar kan ik deze dienst vinden in de console?
-
+Deze dienst is te vinden via de zoekfunctie
 
 ### Hoe zet ik deze dienst aan?
 
 
 ### Hoe kan ik deze dienst koppelen aan andere resources?
+[Intergratie MSLearn](https://learn.microsoft.com/nl-nl/azure/service-bus-messaging/service-bus-messaging-overview#integration)
 
 ## Bronnen
 [MS Learn](https://learn.microsoft.com/nl-nl/azure/service-bus-messaging/service-bus-messaging-overview)
